@@ -131,6 +131,12 @@ img {
 	font-style:italic;
 }
 
+/*list utils */
+
+.disc {
+	list-style-type:disc;
+}
+
 /* utility classes that you can adjust - change the values to what you want or delete them, these are samples */
 
 /* border style utils */
